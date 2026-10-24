@@ -1,8 +1,8 @@
-<img src="assets/banner.png" alt="Talha Ali, Computer Science student at Brunel University London, building practical software for real-world problems" width="100%">
+<img src="assets/banner.png" alt="Talha Ali, Computer Science student at Brunel University of London Pathway College, building practical software for real-world problems" width="100%">
 
 ## About me
 
-I'm a Computer Science student at Brunel University London. I build software that solves real operational problems, with a focus on tools that small organisations can run without an IT department: they work in the browser, keep working offline and keep data on the device. Where AI helps, I use it with a person checking the result before anything is saved.
+I'm a Computer Science student at Brunel University of London Pathway College. I build software that solves real operational problems, with a focus on tools that small organisations can run without an IT department: they work in the browser, keep working offline and keep data on the device. Where AI helps, I use it with a person checking the result before anything is saved.
 
 I'm open to software engineering internships and placements.
 
