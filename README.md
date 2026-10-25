@@ -23,7 +23,7 @@ Offline-first medicine stock and expiry control for small pharmacies and clinic 
 
 <br>
 
-<a href="https://talhaali-tech-engineer.github.io/DampLog/"><img src="assets/damplog.jpg" alt="DampLog overview: the landlord has missed the deadline to investigate black mould in the bedroom" width="100%"></a>
+<a href="https://talhaali-tech-engineer.github.io/DampLog/docs/damplog-demo.mp4"><img src="assets/damplog.jpg" alt="DampLog: your landlord's clock is ticking. Watch the demo." width="100%"></a>
 
 ### [DampLog](https://github.com/talhaali-tech-engineer/DampLog)
 
@@ -32,9 +32,10 @@ An evidence log for damp, mould and repairs in rented homes in England, with Awa
 - Dated photos, notes, calls and visits in one timeline for each problem
 - Works out every deadline the landlord must meet in working days, bank holidays included, and shows when they are late
 - Builds letters (report, chase, formal complaint) and a printable evidence report from the record
+- Probe, a case assistant that reads the record and suggests the next step, with no AI needed
 - Optional AI describes photos and tightens letters; every change is shown, and code checks that no date, reference or name was lost or invented
 
-[**Live app**](https://talhaali-tech-engineer.github.io/DampLog/) &nbsp;·&nbsp; [Source code](https://github.com/talhaali-tech-engineer/DampLog)
+[**Live app**](https://talhaali-tech-engineer.github.io/DampLog/) &nbsp;·&nbsp; [**Demo video (1:44)**](https://talhaali-tech-engineer.github.io/DampLog/docs/damplog-demo.mp4) &nbsp;·&nbsp; [Source code](https://github.com/talhaali-tech-engineer/DampLog)
 
 ## Skills
 
